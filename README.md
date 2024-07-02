@@ -20,7 +20,11 @@
 
 ### GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadusamaawan&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=muhammadusamaawan&show_icons=true&hide_rank=true)
+
+### Top Languages Used
+
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadusamaawan&exclude_repo=chat-docs&layout=compact)
 
 ### Let's connect!
 
