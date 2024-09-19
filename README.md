@@ -4,8 +4,7 @@
 
 ### About Me
 
-- 🔭 I’m currently working at [Embrace IT](https://www.embrace-it.com/)
-- 💬 Ask me about Typescript, React, Next, Node.
+💬 Ask me about Typescript, React, Next, Node.
 
 ### Languages and Tools
 
